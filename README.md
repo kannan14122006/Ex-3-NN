@@ -1,5 +1,5 @@
-<H3>KANNAN R</H3>
-<H3>212224240072</H3>
+<H3>NAME: KANNAN R</H3>
+<H3>REG NO: 212224240072</H3>
 <H3>EX. NO.3</H3>
 <H3>DATE:</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
@@ -35,7 +35,7 @@ Step 3: Repeat the  iteration  until the losses become constant and  minimum<BR>
     (v)  Append the losses in a list <BR>
 Step 4 : Test for the XOR patterns.
 
-<H3>Program:</H3>
+## Program:
 ```
 import numpy as np
 import pandas as pd
